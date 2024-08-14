@@ -34,7 +34,7 @@ Implementação de uma simples API em `django`, com intuíto de aprender como o 
 		- Cria um novo dado na tabela
 	- DELETE
 		- Deleta todos os dados da tabela	
-- `/products/id`
+- `/products/<id:int>`
 	- GET
 		- Retorna o dado pertencente a aquele id
 	- DELETE

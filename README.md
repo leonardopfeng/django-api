@@ -42,6 +42,7 @@ Implementação de uma simples API em `django`, com intuíto de aprender como o 
 	- PUT
 		- Atualiza o dado pertencente a aquele id
 - `/products/get-active`
-	- Retorna todos os dados que possuam o campo `active = True` 
+	- GET
+		- Retorna todos os dados que possuam o campo `active = True` 
 
 
